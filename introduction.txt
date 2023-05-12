@@ -1,3 +1,4 @@
 Name: Amelia Rahman
 NIM: M0512004
 Address: Sukabumi
+Hobby: Reading and Writing
